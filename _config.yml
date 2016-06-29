@@ -1,9 +1,9 @@
 # Site settings
-title: CI and CD with GitHub
+title: BOOM - CI and CD with GitHub
 description: A demo blog
-email: training@github.com
-twitter_username: githubtraining
-github_username:  githubteacher
+email: yarmand@harakys.com
+twitter_username: yarmand
+github_username:  yarmand
 baseurl:
 url: https://githubteacher-ci-cd-workshop.herokuapp.com
 destination: site_content
